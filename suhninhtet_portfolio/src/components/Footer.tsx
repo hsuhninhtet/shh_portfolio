@@ -37,7 +37,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h4 className="text-lg font-semibold">Quick Links</h4>
             <div className="space-y-2">
-              <a href="#home" className="block text-gray-400 hover:text-white transition-colors duration-200">
+              <a href="#hero" className="block text-gray-400 hover:text-white transition-colors duration-200">
                 Home
               </a>
               <a href="#about" className="block text-gray-400 hover:text-white transition-colors duration-200">
