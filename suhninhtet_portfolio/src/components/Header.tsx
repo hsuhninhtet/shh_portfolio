@@ -5,7 +5,7 @@ export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navItems = [
-    { name: 'Home', href: '#home', icon: Home },
+    { name: 'Home', href: '#hero', icon: Home },
     { name: 'About', href: '#about', icon: User },
     { name: 'Portfolio', href: '#portfolio', icon: Briefcase },
     { name: 'Contact', href: '#contact', icon: Mail },
